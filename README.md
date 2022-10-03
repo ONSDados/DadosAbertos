@@ -1,6 +1,8 @@
+
 # DadosAbertos
 
 Repositório colaborativo para criação de notebooks pela comunidade.
+Todos os notebooks a serem desenvolvidos e compartilhados devem utilizar pelo menos um dos conjuntos de dados disponíveis no [Portal de Dados Abertos do ONS](dados.ons.org.br).
 
 Os notebook estão divididos entre os seguintes tópicos:
 
@@ -10,13 +12,18 @@ Os notebook estão divididos entre os seguintes tópicos:
  4. [Planejamento da Operação](https://github.com/ONSDados/DadosAbertos/tree/main/Planejamento_da_operacao) 
  5. [Programação da Operação](https://github.com/ONSDados/DadosAbertos/tree/main/Programacao_da_operacao)
 
-**Regras de utilização:**
+**Regras de utilização:**	
 
-	 1. Escolha a qual assunto seu notebook está vinculado;
-	 2. Caso seja um novo assunto ainda não lista no repositório, crie uma nova pasta no diretório;  
-	 3. Crie uma nova branch para armazenar o seu novo notebook;
-	 4. Faça um commit-push e abra um Pull Request com as suas modificações;
-	 5. A equipe ONS analisará o conteúdo do Pull Request e poderá fazer comentários para melhoria no notebook;
+	 1. Escolha a qual tópico seu notebook estará vinculado e crie uma pasta dentro deste diretório para armazenar o seu notebook.  
+	 2. O nome desta pasta pode ser sugerida por você e precisa estar relacionado com o assunto ou resultado a ser apresentado na execução do seu notebook.   
+	 3. Crie uma nova branch para armazenar o seu novo notebook;        
+	 4. Faça um commit-push e abra um Pull Request com as suas modificações;        
+	 5. A equipe ONS analisará o conteúdo do Pull Request e poderá fazer comentários para melhoria no notebook. Eventualmente, a equipe do ONS poderá direcionar a sua pasta para outro tópico por estar mais aderente ao assunto abordado.  
 	 6. Após aprovação o notebook será publicado no diretório indicado.
+
+
+**Linguagens de programação**
+
+As linguagens de programação preferenciais para o desenvolvimento dos Notebooks serão Python ou R.
 
     
