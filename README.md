@@ -26,4 +26,9 @@ Os notebook estão divididos entre os seguintes tópicos:
 
 As linguagens de programação preferenciais para o desenvolvimento dos Notebooks serão Python ou R.
 
-    
+
+**Passo-a-passo para publicação**
+
+ Clique no link para acessar o arquivo de orientação. [LINK](https://ons-dl-prod-opendata.s3.amazonaws.com/dataset/github/Passo_a_Passo_Publicacao_no_GITHUB_ONS.pdf)
+
+   
