@@ -29,6 +29,6 @@ As linguagens de programação preferenciais para o desenvolvimento dos Notebook
 
 **Passo-a-passo para publicação**
 
- [Orientação](https://ons-dl-prod-opendata.s3.amazonaws.com/dataset/github/Passo_a_Passo_Publicacao_no_GITHUB_ONS.pdf)
+ Clique aqui em [Orientação](https://ons-dl-prod-opendata.s3.amazonaws.com/dataset/github/Passo_a_Passo_Publicacao_no_GITHUB_ONS.pdf)
 
    
